@@ -321,16 +321,16 @@
             <tr>
               <th>Dome-Lid</th>
               <th>White dome lid for 10/12/16/20/24oz paper cups</th>
-              <th>$8.00</th>
-              <th>$71.00</th>
+              <th>$6.00</th>
+              <th>$52.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>Dome-Lid Blk</th>
               <th>Black dome lid for 10/12/16/20/24oz paper cups</th>
-              <th>$8.00</th>
-              <th>$71.00</th>
+              <th>$6.00</th>
+              <th>$52.00</th>
               <th>1,000</th>
             </tr>
           </tbody>

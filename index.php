@@ -90,7 +90,7 @@
 	    <div class="thumbnail">
 	      <img src="images/feature1.jpg" alt="Monthly Special">
 	      <div class="caption">
-	        <h3>Special Promotion:<br /><span style="color:#fc049c">$10% OFF!!</span></h3>
+	        <h3>Special Promotion:<br /><span style="color:#fc049c">Take 10% OFF!!</span></h3>
 	        <p>The Cup Store is launching a brand new look and website, and we want everyone to celebrate along with us! Check out our full line of printable cups and accessories then give us a call!</p>
 	        <!--<p><a href="#" class="btn btn-primary" role="button">Read More</a></p>-->
 	      </div>
