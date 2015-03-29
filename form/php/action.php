@@ -10,7 +10,7 @@
 /* Your data */
 /************************************************/
 	/* Your email goes here */
-	$your_email = "theogirl@gmail.com";
+	$your_email = "s.lombardi@thecupstore.com";
 
 	/* Your name or your company name goes here */
 	$your_name = "The Cup Store";
@@ -239,9 +239,9 @@
 		/* Multiple email recepients */
 		/* If you want to add multiple email recepients - true, if you don't - false */
 		/* Enter email and name of the recipients */
-		$recipients = false;
+		$recipients = true;
 		if ($recipients) {
-			$recipients = array("email@domain.com" => "name of recipient",
+			$recipients = array("sharon@thecupstore.com" => "name of recipient",
 								"email@domain.com" => "name of recipient",
 								"email@domain.com" => "name of recipient"
 								);

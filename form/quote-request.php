@@ -450,10 +450,10 @@
         	<p>Sign up for our e-newsletter and be the first to know about our monthly specials and promotions!</p>
         	<form name="cupnews" method="post" action="/cgi-sys/formmail.pl"><!--this perl script is necessary for form to function-->
 
-              <INPUT TYPE="hidden" NAME="recipient" VALUE="sharon@thecupstore.com">
+              <INPUT TYPE="hidden" NAME="recipient" VALUE="s.lombardi@thecupstore.com, sharon@thecupstore.com">
               <INPUT TYPE="hidden" NAME="subject" VALUE="TCS-US Email Signup - Please add me to your mailing list!">
               <INPUT TYPE="hidden" NAME="env_report" VALUE="REMOTE_HOST,HTTP_USER_AGENT">
-              <INPUT TYPE="hidden" NAME="redirect" VALUE="http://www.thecupstore.com/test/enews-success.php"> 
+              <INPUT TYPE="hidden" NAME="redirect" VALUE="http://www.thecupstore.com/enews-success.php"> 
 
         		<input name="email" type="text" class="form-control" id="inputemail" placeholder="Your E-mail" maxlength="40" />
         		<button type="submit" class="btn btn-primary">Subscribe</button>
