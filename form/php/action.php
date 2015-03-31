@@ -10,7 +10,7 @@
 /* Your data */
 /************************************************/
 	/* Your email goes here */
-	$your_email = "s.lombardi@thecupstore.com";
+	$your_email = "info@thecupstore.com";
 
 	/* Your name or your company name goes here */
 	$your_name = "The Cup Store";
@@ -228,7 +228,7 @@
 		$mail->IsHTML(true);
 		$mail->From = $email;
 		$mail->CharSet = "UTF-8";
-		$mail->FromName = "TCS website";
+		$mail->FromName = "TCS-US website";
 		$mail->Encoding = "base64";
 		$mail->ContentType = "text/html";
 		$mail->addAddress($your_email, $your_name);
