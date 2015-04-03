@@ -31,7 +31,7 @@
 	<link rel="icon" type="image/png" href="../images/favicon-16x16.png" sizes="16x16">
 
 	<!--TypeKit fonts-->
-	<script src="//use.typekit.net/eco7azw.js"></script>
+	<script src="//use.typekit.net/hfw8aey.js"></script>
 	<script>try{Typekit.load();}catch(e){}</script>
 	
 	<!--[if lt IE 9]>
