@@ -18,8 +18,7 @@
     <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../css/tcs-style.css">
 	<link rel="stylesheet" href="../css/font-awesome.css">
-	<link rel="stylesheet" href="css/b-check-demo.css">
-	<link rel="stylesheet" href="css/b-check-style.css">
+	<link rel="stylesheet" href="css/b-check-style.css"><!--styles for form only-->
 
 
 	<link rel="icon" type="image/png" href="../images/favicon-32x32.png" sizes="32x32">
@@ -43,6 +42,40 @@
 	<!--[if lt IE 10]>
 			<script src="js/jquery.placeholder.min.js"></script>
 		<![endif]-->
+
+<!--For iContact Email signup form in footer-->
+<script type="text/javascript">
+
+var icpForm1075 = document.getElementById('icpsignup1075');
+
+if (document.location.protocol === "https:")
+
+	icpForm1075.action = "https://app.icontact.com/icp/signup.php";
+function verifyRequired1075() {
+  if (icpForm1075["fields_email"].value == "") {
+    icpForm1075["fields_email"].focus();
+    alert("The Email field is required.");
+    return false;
+  }
+
+return true;
+}
+</script>
+
+<!--Google Analytics Tracking-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19378007-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 </head>
 <body>
@@ -424,46 +457,59 @@
 
       	<div class="col-xs-7 col-sm-3"><!--product page links-->
       		<h3><i class="fa fa-coffee"></i> PRODUCTS</h3>
-      		<ul>
-	      		<li><a href="../prod-paper-cups.php">Paper Cups</a></li>
-	            <li><a href="../prod-eco-paper-cups.php">Eco-Paper Cups</a></li>
-	            <li><a href="../prod-double-paper-cups.php">Double-Walled Paper Cups</a></li>
-				<li><a href="../prod-plastic-cups.php">Plastic Cups</a></li>
-	            <li><a href="../prod-eco-plastic-cups.php">Eco-Plastic Cups</a></li>
-	            <li><a href="../prod-frosted-plastic-cups.php">Translucent Plastic Cups</a></li>
-	            <li><a href="../prod-glassware.php">Glassware</a></li>
-	            <li><a href="../prod-coffee-sleeves.php">Coffee Sleeves</a></li>
-	            <li><a href="../prod-gelato-cups.php">Gelato Cups</a></li>
-      		</ul>
+      			<ul>
+      			<li><a href="prod-paper-cups.php">Paper Cups</a></li>
+            <li><a href="prod-eco-paper-cups.php">Eco-Paper Cups</a></li>
+            <li><a href="prod-double-paper-cups.php">Double-Walled Paper Cups</a></li>
+					  <li><a href="prod-plastic-cups.php">Plastic Cups</a></li>
+            <li><a href="prod-eco-plastic-cups.php">Eco-Plastic Cups</a></li>
+            <li><a href="prod-frosted-plastic-cups.php">Translucent Plastic Cups</a></li>
+            <li><a href="prod-glassware.php">Glassware</a></li>
+            <li><a href="prod-coffee-sleeves.php">Coffee Sleeves</a></li>
+            <li><a href="prod-gelato-cups.php">Gelato Cups</a></li>
+      			</ul>
       	</div><!--end product links-->
 
       	<div class="col-xs-5 col-sm-3"><!--website links-->
       		<h3><i class="fa fa-link"></i> SITE LINKS</h3>
       		<ul>
-      			<li><a href="../index.php">Home</a></li>
-      			<li><a href="../order-info.php">Order Information</a></li>
-      			<li><a href="../about-us.php">About Us</a></li>
-      			<li><a href="../form/quote-request.php">Quote Request</a></li>
-      			<li><a href="../sitemap.php">Site Map</a></li>
+      			<li><a href="index.php">Home</a></li>
+      			<li><a href="order-info.php">Order Information</a></li>
+      			<li><a href="about-us.php">About Us</a></li>
+      			<li><a href="form/quote-request.php">Quote Request</a></li>
+      			<li><a href="sitemap.php">Site Map</a></li>
       		</ul>
       	</div><!--end site links-->
 
-        <div class="col-xs-12 col-sm-3"><!--email signup-->
-        	<hr class="visible-xs-block">
-        	<h3><i class="fa fa-envelope-o"></i> SUBSCRIBE TODAY!</h3>
-        	<p>Sign up for our e-newsletter and be the first to know about our monthly specials and promotions!</p>
-        	<form name="cupnews" method="post" action="/cgi-sys/formmail.pl"><!--this perl script is necessary for form to function-->
+       <div class="col-xs-12 col-sm-3"><!--email signup-->
+          <hr class="visible-xs-block">
+          <h3><i class="fa fa-envelope-o"></i> SUBSCRIBE TODAY!</h3>
+          <p>Sign up for our e-newsletter and be the first to know about our monthly specials and promotions!</p>
+          
+<form method="post" action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup1075" accept-charset="UTF-8" onsubmit="return verifyRequired1075();" ><!--this is the iContact version-->
 
-              <INPUT TYPE="hidden" NAME="recipient" VALUE="s.lombardi@thecupstore.com, sharon@thecupstore.com">
-              <INPUT TYPE="hidden" NAME="subject" VALUE="TCS-US Email Signup - Please add me to your mailing list!">
-              <INPUT TYPE="hidden" NAME="env_report" VALUE="REMOTE_HOST,HTTP_USER_AGENT">
-              <INPUT TYPE="hidden" NAME="redirect" VALUE="http://www.thecupstore.com/enews-success.php"> 
+<input type="hidden" name="redirect" value="http://www.thecupstore.com/enews-success.php">
+<input type="hidden" name="errorredirect" value="http://www.thecupstore.com/enews-fail.php">
 
-        		<input name="email" type="text" class="form-control" id="inputemail" placeholder="Your E-mail" maxlength="40" />
-        		<button type="submit" class="btn btn-primary">Subscribe</button>
-        	</form>
+
+    <input type="text" name="fields_email" class="required form-control" placeholder="Your E-mail" maxlength="40">
+
+    <input type="hidden" name="listid" value="9887116">
+    <input type="hidden" name="specialid:9887116" value="EPKZ">
+
+    <input type="hidden" name="clientid" value="20581">
+    <input type="hidden" name="formid" value="1075">
+    <input type="hidden" name="reallistid" value="1">
+    <input type="hidden" name="doubleopt" value="0">
+
+  
+    <button type="submit" name="Submit" class="btn btn-primary" value="Submit">Subscribe</button>
+</form>
+
+
+
         </div><!--end email signup-->
-    
+ 
       </div><!--end row-->
     </div><!--end container-->
 </footer>

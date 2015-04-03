@@ -45,22 +45,35 @@
       		</ul>
       	</div><!--end site links-->
 
-        <div class="col-xs-12 col-sm-3"><!--email signup-->
-        	<hr class="visible-xs-block">
-        	<h3><i class="fa fa-envelope-o"></i> SUBSCRIBE TODAY!</h3>
-        	<p>Sign up for our e-newsletter and be the first to know about our monthly specials and promotions!</p>
-        	<form name="cupnews" method="post" action="/cgi-sys/formmail.pl"><!--this perl script is necessary for form to function-->
+       <div class="col-xs-12 col-sm-3"><!--email signup-->
+          <hr class="visible-xs-block">
+          <h3><i class="fa fa-envelope-o"></i> SUBSCRIBE TODAY!</h3>
+          <p>Sign up for our e-newsletter and be the first to know about our monthly specials and promotions!</p>
+          
+<form method="post" action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup1075" accept-charset="UTF-8" onsubmit="return verifyRequired1075();" ><!--this is the iContact version-->
 
-              <INPUT TYPE="hidden" NAME="recipient" VALUE="s.lombardi@thecupstore.com, sharon@thecupstore.com">
-              <INPUT TYPE="hidden" NAME="subject" VALUE="TCS-US Email Signup - Please add me to your mailing list!">
-              <INPUT TYPE="hidden" NAME="env_report" VALUE="REMOTE_HOST,HTTP_USER_AGENT">
-              <INPUT TYPE="hidden" NAME="redirect" VALUE="http://www.thecupstore.com/enews-success.php"> 
+<input type="hidden" name="redirect" value="http://www.thecupstore.com/enews-success.php">
+<input type="hidden" name="errorredirect" value="http://www.thecupstore.com/enews-fail.php">
 
-        		<input name="email" type="text" class="form-control" id="inputemail" placeholder="Your E-mail" maxlength="40" />
-        		<button type="submit" class="btn btn-primary">Subscribe</button>
-        	</form>
+
+    <input type="text" name="fields_email" class="required form-control" placeholder="Your E-mail" maxlength="40">
+
+    <input type="hidden" name="listid" value="9887116">
+    <input type="hidden" name="specialid:9887116" value="EPKZ">
+
+    <input type="hidden" name="clientid" value="20581">
+    <input type="hidden" name="formid" value="1075">
+    <input type="hidden" name="reallistid" value="1">
+    <input type="hidden" name="doubleopt" value="0">
+
+  
+    <button type="submit" name="Submit" class="btn btn-primary" value="Submit">Subscribe</button>
+</form>
+
+
+
         </div><!--end email signup-->
-    
+ 
       </div><!--end row-->
     </div><!--end container-->
 </footer>

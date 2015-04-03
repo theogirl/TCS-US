@@ -9,18 +9,7 @@
     
     <title>Contact Us | The Cup Store</title>
 
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="css/tcs-style.css">
-	<link rel="stylesheet" href="css/font-awesome.css">
-
-	<link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="images/android-chrome-192x192.png" sizes="192x192">
-	<link rel="icon" type="image/png" href="images/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16">
-
-	<!--TypeKit fonts-->
-	<script src="//use.typekit.net/hfw8aey.js"></script>
-	<script>try{Typekit.load();}catch(e){}</script>
+  <?php include 'includes/head.php'; ?>
 
 	<!--Google Map-->
 	<script src="https://maps.googleapis.com/maps/api/js"></script>
@@ -43,25 +32,7 @@
       google.maps.event.addDomListener(window, 'load', initialize);
     </script>
 	
-	<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-		<script scr="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-	<![endif]-->	
 
-<!--Google Analytics Tracking-->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19378007-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </head>
 
 <body>

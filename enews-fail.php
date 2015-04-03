@@ -7,9 +7,9 @@
 	<meta name="description" content="The Cup Store is your premier source for custom printed disposable paper and plastic cups, glassware, containers, coffee sleeves and much more. Grow your brand and your business one cup at a time - print your logo or other artwork on a cup!">
 	<meta name="keywords" content="paper cups, plastic cups, glassware, coffee sleeves, gelato cups, ice cream cups, compostable cups, biodegradeable cups, eco cups, printed paper cups, printed plastic cups, custom printed cups, imprinted paper cups, imprinted plastic cups, promotional cups, logo on cups, custom cups, customized cups">
     
-    <title>404 Error | The Cup Store</title>
+    <title>Signup Failed | The Cup Store</title>
 
-  <?php include 'includes/head.php'; ?>
+ <?php include 'includes/head.php'; ?>
 
 </head>
 
@@ -23,7 +23,7 @@
 <!--PAGE TITLE-->
 <section class="tcs-pagetitle">
 	<div class="container-fluid">
-		<h1>404 Error</h1>
+		<h1>Signup Failed</h1>
 	</div>
 </section>
 
@@ -35,7 +35,8 @@
 	</div>
 
 	<div class="col-xs-12 col-sm-6">
-	<h1>Oops!<br /> Looks like this cup is empty...</h1>
+	<h1>Oops!</h1>
+	<p class="tcs-lead">Looks like we've experienced an error with your email signup request. Please go back to try again. Double check that you have entered a valid email address. Thanks!</p>
 	<p><a href="products.php">Take me to the <strong>Product Menu</strong> instead.</a></p>
 	</div>
 
