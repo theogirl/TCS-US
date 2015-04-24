@@ -842,7 +842,7 @@
     <h3 class="text-center glass-title">Glass Stemware</h3>
 
     <section class="row">
-      <div class="col-xs-6 col-sm-2 col-sm-offset-1 tcs-product">
+      <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
       <img src="images/products/wine-85oz.jpg" alt="Wine Glass - 8.5oz" title="Wine Glass - 8.5oz">
       <h4>Grand Nobless 8.5 oz.</h4>
       </div>
@@ -857,10 +857,10 @@
       <h4>Connoisseur 19.25 oz.</h4>
       </div>   
 
-     <div class="col-xs-6 col-sm-2 tcs-product">
+     <!--<div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/martini-10oz.jpg" alt="Martini - 10oz" title="Martini - 10oz">
       <h4>Connoisseur 10 oz. Martini</h4>
-      </div>   
+      </div>-->
 
      <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/flute-8oz.jpg" alt="Flute - 8oz" title="Flute - 8oz">
@@ -872,7 +872,7 @@
  <h3 class="text-center">Minimum order = 24 glasses.</h3>
 
 
-<!--Price Table: Beer Steins + Mugs-->
+<!--Price Table: Stemware-->
 <section class="panel panel-default">
   <div class="panel-heading">Prices <strong>per glass</strong>, in U.S. Dollars <strong>($USD)</strong></div>
     <div class="panel-body">
@@ -922,7 +922,7 @@
               <th>Call Us</th>
             </tr>
 
-            <tr>
+            <!--<tr>
               <th>AA10-48463</th>
               <th>Connoisseur - 10 oz Martini</th>
               <th>$8.30</th>
@@ -930,7 +930,7 @@
               <th>$5.93</th>
               <th>$5.61</th>
               <th>Call Us</th>
-            </tr>
+            </tr>-->
 
            <tr>
               <th>A8-45520</th>
