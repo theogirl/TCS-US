@@ -241,7 +241,7 @@
 		/* Enter email and name of the recipients */
 		$recipients = true;
 		if ($recipients) {
-			$recipients = array("sharon@thecupstore.com" => "name of recipient",
+			$recipients = array("theogirl@outlook.com" => "name of recipient",
 								"email@domain.com" => "name of recipient",
 								"email@domain.com" => "name of recipient"
 								);

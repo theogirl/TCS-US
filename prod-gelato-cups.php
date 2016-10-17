@@ -55,8 +55,13 @@
 <div class="container">
 
 <!--Thumbnails: Cups-->
-    <section class="row">
-      <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
+       <section class="row">
+       <div class="col-xs-6 col-sm-2 col-sm-offset-1 tcs-product">
+      <img src="images/products/gelato-5oz.jpg" alt="gelato cup 5oz" title="gelato cup 5oz">
+      <h4>5 oz.</h4>
+      </div>
+
+      <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/gelato-6oz.jpg" alt="gelato cup 6oz" title="gelato cup 6oz">
       <h4>6 oz.</h4>
       </div>
@@ -107,6 +112,17 @@
           </thead>
 
           <tbody>
+
+             <tr>
+              <th>5GL</th>
+              <th>5oz Paper Gelato Cup</th>
+              <th>$0.60</th>
+              <th>$0.49</th>
+              <th>$0.45</th>
+              <th>$0.30</th>
+              <th>$0.27</th>
+              <th>Call Us</th>
+            </tr>
             <tr>
               <th>6GL</th>
               <th>6oz Paper Gelato Cup</th>
@@ -132,11 +148,11 @@
             <tr>
               <th>12GL</th>
               <th>12oz Paper Gelato Cup</th>
-              <th>$0.91</th>
-              <th>$0.74</th>
-              <th>$0.63</th>
-              <th>$0.41</th>
-              <th>$0.39</th>
+              <th>$1.00</th>
+              <th>$0.82</th>
+              <th>$0.69</th>
+              <th>$0.46</th>
+              <th>$0.43</th>
               <th>Call Us</th>
             </tr>
 

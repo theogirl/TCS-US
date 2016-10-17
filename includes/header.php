@@ -36,7 +36,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index.php"><img src="images/tcs-logo.jpg" alt="The Cup Store logo"></a>
+			<a class="navbar-brand" href="index.php">Primary Printers</a>
 		</div><!--end navbar-header-->
 
 		<div class="collapse navbar-collapse" id="tcsnavbar-links"><!--contains the actual nav links-->

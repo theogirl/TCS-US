@@ -148,60 +148,60 @@
             <tr>
               <th>A11-53224</th>
               <th>Aristocrat - 11 oz On The Rocks</th>
-              <th>$3.37</th>
-              <th>$3.12</th>
-              <th>$2.40</th>
-              <th>$2.27</th>
+              <th>$4.94</th>
+              <th>$4.58</th>
+              <th>$3.53</th>
+              <th>$3.33</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A14-53232</th>
               <th>Aristocrat - 14 oz Double Old Fashioned</th>
-              <th>$3.37</th>
-              <th>$3.12</th>
-              <th>$2.40</th>
-              <th>$2.27</th>
+              <th>$4.94</th>
+              <th>$4.58</th>
+              <th>$3.53</th>
+              <th>$3.33</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A13-53205</th>
               <th>Aristocrat - 13 oz Beverage</th>
-              <th>$3.37</th>
-              <th>$3.12</th>
-              <th>$2.40</th>
-              <th>$2.27</th>
+              <th>$4.94</th>
+              <th>$4.58</th>
+              <th>$3.53</th>
+              <th>$3.33</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A15-53214</th>
               <th>Aristocrat - 15 oz Cooler</th>
-              <th>$3.37</th>
-              <th>$3.12</th>
-              <th>$2.40</th>
-              <th>$2.27</th>
+              <th>$4.94</th>
+              <th>$4.58</th>
+              <th>$3.53</th>
+              <th>$3.33</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A16-H3099</th>
               <th>Highland - 16 oz Cooler</th>
-              <th>$3.37</th>
-              <th>$3.12</th>
-              <th>$2.40</th>
-              <th>$2.27</th>
+              <th>$4.80</th>
+              <th>$4.45</th>
+              <th>$3.43</th>
+              <th>$3.24</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A20-G7361</th>
               <th>Highland - 20 oz Cooler</th>
-              <th>$3.97</th>
-              <th>$3.67</th>
-              <th>$2.83</th>
-              <th>$2.68</th>
+              <th>$5.66</th>
+              <th>$5.24</th>
+              <th>$4.04</th>
+              <th>$3.82</th>
               <th>Call Us</th>
             </tr>
 
@@ -209,40 +209,40 @@
             <tr>
               <th>A16-C5872</th>
               <th>Willi Becher - 16 oz Tumbler</th>
-              <th>$4.35</th>
-              <th>$4.03</th>
-              <th>$3.11</th>
-              <th>$2.94</th>
+              <th>$6.96</th>
+              <th>$6.44</th>
+              <th>$4.97</th>
+              <th>$4.70</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A20-C3526</th>
               <th>Willi Becher - 20 oz Tumbler</th>
-              <th>$4.80</th>
-              <th>$4.44</th>
-              <th>$3.43</th>
-              <th>$3.24</th>
+              <th>$7.68</th>
+              <th>$7.12</th>
+              <th>$5.48</th>
+              <th>$5.18</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A16-G3960</th>
               <th>Pub - 16 oz Mixing Glass</th>
-              <th>$3.83</th>
-              <th>$3.54</th>
-              <th>$2.73</th>
-              <th>$2.58</th>
+              <th>$5.46</th>
+              <th>$5.05</th>
+              <th>$3.89</th>
+              <th>$3.69</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A20-23303</th>
               <th>Pub - 20.5 oz Mixing Glass</th>
-              <th>$5.58</th>
-              <th>$5.16</th>
-              <th>$3.98</th>
-              <th>$3.77</th>
+              <th>$7.95</th>
+              <th>$7.36</th>
+              <th>$5.68</th>
+              <th>$5.37</th>
               <th>Call Us</th>
             </tr>
 
@@ -348,50 +348,50 @@
             <tr>
               <th>A12-33983</th>
               <th>On Tap – 12 oz. Pilsner</th>
-              <th>$3.87</th>
-              <th>$3.58</th>
-              <th>$2.76</th>
-              <th>$2.61</th>
+              <th>$5.52</th>
+              <th>$5.10</th>
+              <th>$3.94</th>
+              <th>$3.72</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A16-16471</th>
               <th>Classic - 16oz. Pilsner</th>
-              <th>$9.00</th>
-              <th>$8.33</th>
-              <th>$6.43</th>
-              <th>$6.08</th>
+              <th>$12.84</th>
+              <th>$11.89</th>
+              <th>$9.17</th>
+              <th>$8.68</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A16-G3844</th>
               <th>Pub Pilsner - 16oz.</th>
-              <th>$4.37</th>
-              <th>$4.04</th>
-              <th>$3.12</th>
-              <th>$2.95</th>
+              <th>$6.23</th>
+              <th>$5.77</th>
+              <th>$4.45</th>
+              <th>$4.21</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A20-36230</th>
               <th>Pub Pilsner - 20oz.</th>
-              <th>$5.58</th>
-              <th>$5.16</th>
-              <th>$3.98</th>
-              <th>$3.77</th>
+              <th>$7.95</th>
+              <th>$7.36</th>
+              <th>$5.68</th>
+              <th>$5.37</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A23-36229</th>
               <th>Pub Pilsner - 23oz.</th>
-              <th>$5.83</th>
-              <th>$5.39</th>
-              <th>$4.16</th>
-              <th>$3.94</th>
+              <th>$8.31</th>
+              <th>$7.69</th>
+              <th>$5.94</th>
+              <th>$5.62</th>
               <th>Call Us</th>
             </tr>
 
@@ -399,27 +399,7 @@
             <tr>
               <th>A12-21054</th>
               <th>Grand Pilsner - 12oz.</th>
-              <th>$3.77</th>
-              <th>$3.49</th>
-              <th>$2.69</th>
-              <th>$2.55</th>
-              <th>Call Us</th>
-            </tr>
-
-            <tr>
-              <th>A16-21053</th>
-              <th>Grand Pilsner - 16oz.</th>
-              <th>$4.73</th>
-              <th>$4.38</th>
-              <th>$3.38</th>
-              <th>$3.19</th>
-              <th>Call Us</th>
-            </tr>
-
-            <tr>
-              <th>A20-19416</th>
-              <th>Grand Pilsner - 20oz.</th>
-              <th>$5.38</th>
+              <th>$5.37</th>
               <th>$4.98</th>
               <th>$3.84</th>
               <th>$3.63</th>
@@ -427,12 +407,32 @@
             </tr>
 
             <tr>
+              <th>A16-21053</th>
+              <th>Grand Pilsner - 16oz.</th>
+              <th>$6.74</th>
+              <th>$6.24</th>
+              <th>$4.82</th>
+              <th>$4.56</th>
+              <th>Call Us</th>
+            </tr>
+
+            <tr>
+              <th>A20-19416</th>
+              <th>Grand Pilsner - 20oz.</th>
+              <th>$7.67</th>
+              <th>$7.10</th>
+              <th>$5.48</th>
+              <th>$5.18</th>
+              <th>Call Us</th>
+            </tr>
+
+            <tr>
               <th>A23-19415</th>
               <th>Grand Pilsner - 23oz.</th>
-              <th>$5.53</th>
-              <th>$5.12</th>
-              <th>$3.95</th>
-              <th>$3.73</th>
+              <th>$7.89</th>
+              <th>$7.30</th>
+              <th>$5.63</th>
+              <th>$5.33</th>
               <th>Call Us</th>
             </tr>
 
@@ -517,57 +517,57 @@
             <tr>
               <th>A16-G5025</th>
               <th>Nonic – 16 oz. Lager</th>
-              <th>$3.17</th>
-              <th>$2.93</th>
-              <th>$2.26</th>
-              <th>$2.14</th>
+              <th>$4.52</th>
+              <th>$4.18</th>
+              <th>$3.23</th>
+              <th>$3.05</th>
               <th>Call Us</th>
             </tr>
 
               <th>A19-58220</th>
               <th>Nonic – 19 oz. Lager</th>
-              <th>$4.60</th>
-              <th>$4.26</th>
-              <th>$3.29</th>
-              <th>$3.11</th>
+              <th>$7.36</th>
+              <th>$6.82</th>
+              <th>$5.69</th>
+              <th>$5.38</th>
               <th>Call Us</th>
             </tr>
 
             <th>A16-H6283</th>
               <th>Oslo – 16 oz. Pilsner</th>
-              <th>$4.58</th>
-              <th>$4.24</th>
-              <th>$3.27</th>
-              <th>$3.09</th>
+              <th>$6.53</th>
+              <th>$6.05</th>
+              <th>$4.67</th>
+              <th>$4.41</th>
               <th>Call Us</th>
             </tr>      
 
            <th>A20-H6288</th>
               <th>Oslo – 20 oz. Pilsner</th>
-              <th>$5.38</th>
-              <th>$4.98</th>
-              <th>$3.84</th>
-              <th>$3.63</th>
+              <th>$7.67</th>
+              <th>$7.10</th>
+              <th>$5.48</th>
+              <th>$5.18</th>
               <th>Call Us</th>
             </tr>     
 
 
            <th>A16-H0713</th>
               <th>Portland – 15 oz. Stem Beer</th>
-              <th>$7.28</th>
-              <th>$6.74</th>
-              <th>$5.20</th>
-              <th>$4.92</th>
+              <th>$10.38</th>
+              <th>$9.61</th>
+              <th>$7.42</th>
+              <th>$7.01</th>
               <th>Call Us</th>
             </tr> 
 
 
            <th>A15-J0305</th>
               <th>Cervoise – 16.75 oz. Stem Beer</th>
-              <th>$8.23</th>
-              <th>$7.62</th>
-              <th>$5.88</th>
-              <th>$5.56</th>
+              <th>$11.74</th>
+              <th>$10.86</th>
+              <th>$8.38</th>
+              <th>$7.93</th>
               <th>Call Us</th>
             </tr> 
 
@@ -648,50 +648,50 @@
             <tr>
               <th>A6-H3387</th>
               <th>Conique - 6.75oz. Taster</th>
-              <th>$1.81</th>
-              <th>$1.67</th>
-              <th>$1.29</th>
-              <th>$1.22</th>
+              <th>$2.58</th>
+              <th>$2.39</th>
+              <th>$1.84</th>
+              <th>$1.74</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A1-H5057</th>
               <th>Shot - 2oz.</th>
-              <th>$1.91</th>
-              <th>$1.77</th>
-              <th>$1.36</th>
-              <th>$1.29</th>
+              <th>$2.72</th>
+              <th>$2.53</th>
+              <th>$1.95</th>
+              <th>$1.84</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A2-01005</th>
               <th>Islande - 2 oz. Cordial</th>
-              <th>$2.01</th>
-              <th>$1.86</th>
-              <th>$1.44</th>
-              <th>$1.36</th>
+              <th>$2.95</th>
+              <th>$2.73</th>
+              <th>$2.11</th>
+              <th>$1.99</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>A3-C3158</th>
               <th>Yukon - 3oz. Frosted</th>
-              <th>$3.20</th>
-              <th>$2.97</th>
-              <th>$2.29</th>
-              <th>$2.16</th>
+              <th>$4.57</th>
+              <th>$4.24</th>
+              <th>$3.26</th>
+              <th>$3.09</th>
               <th>Call Us</th>
             </tr>
 
              <tr>
               <th>A7-C3159</th>
               <th>Yukon - 7.5oz. Frosted</th>
-              <th>$4.37</th>
-              <th>$4.04</th>
-              <th>$3.12</th>
-              <th>$2.95</th>
+              <th>$6.23</th>
+              <th>$5.77</th>
+              <th>$4.45</th>
+              <th>$4.21</th>
               <th>Call Us</th>
             </tr>
 
@@ -775,46 +775,46 @@
             <tr>
               <th>A13-53329</th>
               <th>Sport - 13 oz. Mug</th>
-              <th>$5.83</th>
-              <th>$5.39</th>
-              <th>$4.16</th>
-              <th>$3.94</th>
+              <th>$8.31</th>
+              <th>$7.69</th>
+              <th>$5.94</th>
+              <th>$5.62</th>
               <th>Call Us</th>
             </tr>
 
             <th>A15-53331</th>
               <th>Sport - 15 oz. Mug</th>
-              <th>$7.40</th>
-              <th>$6.85</th>
-              <th>$5.29</th>
-              <th>$5.00</th>
+              <th>$10.86</th>
+              <th>$10.05</th>
+              <th>$7.76</th>
+              <th>$7.34</th>
               <th>Call Us</th>
             </tr>
 
             <th>A25-53404</th>
               <th>Sport - 25 oz. Mug</th>
-              <th>$10.90</th>
-              <th>$10.09</th>
-              <th>$7.79</th>
-              <th>$7.36</th>
+              <th>$15.55</th>
+              <th>$14.40</th>
+              <th>$11.11</th>
+              <th>$10.51</th>
               <th>Call Us</th>
             </tr>
 
             <th>A20-61076</th>
               <th>Haworth - 20 oz. Mug</th>
-              <th>$6.13</th>
-              <th>$5.67</th>
-              <th>$4.38</th>
-              <th>$4.14</th>
+              <th>$8.74</th>
+              <th>$8.09</th>
+              <th>$6.24</th>
+              <th>$5.91</th>
               <th>Call Us</th>
             </tr>
 
             <th>A20-38518</th>
               <th>Britania - 20 oz. Mug</th>
-              <th>$6.08</th>
-              <th>$5.63</th>
-              <th>$4.34</th>
-              <th>$4.10</th>
+              <th>$8.67</th>
+              <th>$8.03</th>
+              <th>$6.20</th>
+              <th>$5.85</th>
               <th>Call Us</th>
             </tr>
 
@@ -842,11 +842,11 @@
     <h3 class="text-center glass-title">Glass Stemware</h3>
 
     <section class="row">
-      <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
+      <div class="col-xs-6 col-sm-2 col-sm-offset-3 tcs-product">
       <img src="images/products/wine-85oz.jpg" alt="Wine Glass - 8.5oz" title="Wine Glass - 8.5oz">
       <h4>Grand Nobless 8.5 oz.</h4>
       </div>
-
+ <!--discontinued
       <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/white-wine-16oz.jpg" alt="White wine - 16oz" title="White wine - 16oz">
       <h4>Connoisseur 16 oz.</h4>
@@ -855,12 +855,12 @@
      <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/white-wine-1925oz.jpg" alt="White wine - 19.25oz" title="White wine - 19.25oz">
       <h4>Connoisseur 19.25 oz.</h4>
-      </div>   
+      </div>-->  
 
-     <!--<div class="col-xs-6 col-sm-2 tcs-product">
+    <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/martini-10oz.jpg" alt="Martini - 10oz" title="Martini - 10oz">
       <h4>Connoisseur 10 oz. Martini</h4>
-      </div>-->
+      </div>
 
      <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/flute-8oz.jpg" alt="Flute - 8oz" title="Flute - 8oz">
@@ -895,13 +895,13 @@
             <tr>
               <th>A8-54502</th>
               <th>Grand Nobless - 8.5 oz Wine Glass</th>
-              <th>$3.67</th>
-              <th>$3.40</th>
-              <th>$2.62</th>
-              <th>$2.48</th>
+              <th>$5.23</th>
+              <th>$4.85</th>
+              <th>$3.73</th>
+              <th>$3.53</th>
               <th>Call Us</th>
             </tr>
-
+<!--discontinued
             <tr>
               <th>A16-C3498</th>
               <th>Connoisseur - 16 oz White Wine</th>
@@ -920,25 +920,25 @@
               <th>$5.61</th>
               <th>$5.30</th>
               <th>Call Us</th>
-            </tr>
+            </tr>-->
 
-            <!--<tr>
+            <tr>
               <th>AA10-48463</th>
               <th>Connoisseur - 10 oz Martini</th>
-              <th>$8.30</th>
-              <th>$7.69</th>
-              <th>$5.93</th>
-              <th>$5.61</th>
+              <th>$11.84</th>
+              <th>$10.97</th>
+              <th>$8.45</th>
+              <th>$8.00</th>
               <th>Call Us</th>
             </tr>-->
 
            <tr>
               <th>A8-45520</th>
               <th>Connoisseur - 8 oz Flute</th>
-              <th>$6.85</th>
-              <th>$6.34</th>
-              <th>$4.89</th>
-              <th>$4.63</th>
+              <th>$9.77</th>
+              <th>$9.05</th>
+              <th>$6.98</th>
+              <th>$6.60</th>
               <th>Call Us</th>
             </tr>
 
@@ -996,10 +996,10 @@
             <tr>
               <th>A60-C0678</th>
               <th>Pitcher – 60 oz</th>
-              <th>$22.35</th>
-              <th>$20.69</th>
-              <th>$15.96</th>
-              <th>$15.10</th>
+              <th>$31.89</th>
+              <th>$29.52</th>
+              <th>$22.78</th>
+              <th>$21.55</th>
               <th>Call Us</th>
             </tr>
 

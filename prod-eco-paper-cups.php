@@ -238,30 +238,30 @@
               <th>4P-Lid</th>
               <th>White vented lid for 4oz paper cups</th>
               <th>$4.00</th>
-              <th>$35.00</th>
+              <th>$37.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>8P-Lid</th>
               <th>White tear back lid for 8oz paper cups</th>
-              <th>$4.50</th>
-              <th>$39.00</th>
+              <th>$4.00</th>
+              <th>$40.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>8P-Dome</th>
               <th>White dome lid for 8oz paper cups</th>
-              <th>$6.00</th>
-              <th>$50.00</th>
+              <th>$5.50</th>
+              <th>$54.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>8P-Dome Blk</th>
               <th>Black dome lid for 8oz paper cups</th>
-              <th>$6.50</th>
+              <th>$6.00</th>
               <th>$57.00</th>
               <th>1,000</th>
             </tr>
@@ -293,8 +293,8 @@
             <tr>
               <th>ECO-Dome</th>
               <th>ECO dome lid for 10/12/16/20/24oz paper cups</th>
-              <th>$16.00</th>
-              <th>$145.00</th>
+              <th>$13.00</th>
+              <th>$156.00</th>
               <th>1,200</th>
             </tr>
 

@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="The Cup Store is your premier source for custom printed disposable paper and plastic cups, glassware, containers, coffee sleeves and much more. Grow your brand and your business one cup at a time - print your logo or other artwork on a cup!">
 	<meta name="keywords" content="paper cups, plastic cups, glassware, coffee sleeves, gelato cups, ice cream cups, compostable cups, biodegradeable cups, eco cups, printed paper cups, printed plastic cups, custom printed cups, imprinted paper cups, imprinted plastic cups, promotional cups, logo on cups, custom cups, customized cups">
-    
+
     <title>The Cup Store</title>
 
  <?php include 'includes/head.php'; ?>
@@ -35,7 +35,69 @@
       </div>
 </section>
 
-<!--FEATURETTE-->
+<div class="container">
+	<section class="row home-ctr">
+		 <h2 class="featurette-heading">Helping you build your business. One cup at a time.</h2>
+          <p class="tcs-lead">Print your logo on our cups and tell your customers who you are with every delicious sip they take! Nothing is more important to you than growing your business. Our cups will help you promote and build your brand by offering the quality and distinction that will set you apart from your competition.</p>
+	</section>
+	</div>
+
+
+
+<!--FEATURED THUMBS-->
+<div class="container">
+	<section class="row tcs-promos">
+
+
+
+	  	  <div class="col-xs-12 col-sm-4">
+	    <div class="thumbnail-special">
+	    <div class="promo_banner">OCTOBER SPECIAL</div>
+	      <img src="images/feature-coffee.jpg" alt="10% off a coffee combo">
+	      <div class="caption">
+	        <h3><span style="color: black;">Coffee Combo Savings!</span></h3>
+			
+	        <p>Fall is here, and so is the taste for cozy comfort and great coffee! Give your customers what they're craving this month and <strong>get 10% off </strong>when you order printed coffee cups, lids and sleeves.*</p>
+	      </div>
+	    </div>
+	  </div>
+
+	  	  <div class="col-xs-12 col-sm-4">
+	    <div class="thumbnail">
+	      <img src="images/feature2.jpg" alt="High Volume Discounts">
+	      <div class="caption">
+	        <h3>High-Volume Discounts</h3>
+	        <p>No job is too big, and the more you buy, the less you pay! <a href="form/quote-request.php">Request a quote</a> for your next high-volume order and discover why we're the preferred supplier for some of the leading brewers and beverage producers in the country. </p>
+	        <!--<p><a href="quote-request.php" class="btn btn-primary" role="button">Quote Request</a></p>-->
+	      </div>
+	    </div>
+	  </div>
+
+
+	  	  <div class="col-xs-12 col-sm-4">
+	    <div class="thumbnail">
+	      <img src="images/feature3.jpg" alt="Request a Sample">
+	      <div class="caption">
+	        <h3>Need a Sample? Just Ask!</h3>
+	        <p>We're always happy to show off our work and high quality products, so if you would like to get your hands on some actual cups, please get in touch. We'll be happy to send you samples so that you can decide which might suit your own needs best! </p>
+	      </div>
+	    </div>
+	  </div>
+	</section>
+	<hr>
+</div>
+
+<!--LIGHT WIDGET-->
+<div class="container">
+<section class="row home-ctr">
+<h2>Check out our Cups on Instagram!</h2><br />
+<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9f6331501ee850b69d00b739fbcb31b3.html" id="lightwidget_9f6331501e" name="lightwidget_9f6331501e"  scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+</section>
+<p class="tcs-lead home-ctr insta">We carry a full line of cup products and accessories, including compostable papers and plastics, glassware, gelato cups, coffee sleeves, lids, and more! And they can be used for plenty of things besides just beverages. Consider using our cups for all kinds of munchies, sweets, and promotional giveaways... the only limit is your imagination! Call us today for great ideas on how to build your business, one cup at a time.</p>
+<hr>
+</div>
+
+<!--FEATURETTE
 <div class="container">
     <section class="row featurette">
        <div class="col-md-5">
@@ -45,69 +107,27 @@
           <h2 class="featurette-heading">Helping you build your business.<br /> <span class="text-muted">One cup at a time.</span></h2>
           <p class="tcs-lead">Print your logo on our cups and tell your customers who you are with every delicious sip they take! Nothing is more important to you than growing your business. Our cups will help you promote and build your brand by offering the quality and distinction that will set you apart from your competition.</p>
           <p class="tcs-lead">We carry a full line of cup products and accessories, including compostable papers and plastics, glassware, gelato cups, coffee sleeves, lids, and more! And they can be used for plenty of things besides just beverages. Consider using our cups for all kinds of munchies, sweets, and promotional giveaways... the only limit is your imagination! Call us today for great ideas on how to build your business, one cup at a time.</p>
-          
+
        </div>
      </section>
  <hr>
- </div>
+ </div>-->
 
 
-<!--FEATURED THUMBS-->
-<div class="container">
-	<section class="row tcs-promos">
-
-	  <div class="col-xs-12 col-sm-4">
-	    <div class="thumbnail">
-	      <img src="images/feature1.jpg" alt="Monthly Special">
-	      <div class="caption">
-	        <h3>Special Promotion:<br /><span style="color:#fc049c">Take 10% OFF!!</span></h3>
-	        <p>The Cup Store is launching a brand new look and website, and we want everyone to celebrate along with us! Check out our full line of printable cups and accessories then give us a call!</p>
-	        <!--<p><a href="#" class="btn btn-primary" role="button">Read More</a></p>-->
-	      </div>
-	    </div>
-	  </div>
-
-	  	  <div class="col-xs-12 col-sm-4">
-	    <div class="thumbnail">
-	      <img src="images/feature2.jpg" alt="Monthly Special">
-	      <div class="caption">
-	        <h3>High-Volume Discounts</h3>
-	        <p>No job is too big, and the more you buy, the less you pay! <a href="form/quote-request.php">Request a quote</a> for your next high-volume order and discover why we're the preferred supplier for some of the leading brewers and beverage producers in the country. </p>
-	        <!--<p><a href="quote-request.php" class="btn btn-primary" role="button">Quote Request</a></p>-->
-	      </div>
-	    </div>
-	  </div>
-
-	  	  <div class="col-xs-12 col-sm-4">
-	    <div class="thumbnail">
-	      <img src="images/feature3.jpg" alt="Monthly Special">
-	      <div class="caption">
-	        <h3>Need a Sample? Just Ask!</h3>
-	        <p>We're always happy to show off our work and high quality products, so if you would like to get your hands on some actual cups, please get in touch. We'll be happy to send you samples so that you can decide which might suit your own needs best! </p>
-	      </div>
-	    </div>
-	  </div>
-
-	</section>
-</div>
-
-
-
-<aside class="tcs-callout">
-	<div class="container-fluid row">
-				
-			<div class="container">
-				<h2>Are you a marketing professional?</h2>
-				<p>The Cup Store proudly partners with the advertising and marketing professionals who help their clients grow their business and achieve strong brand recognition. Our extensive experience and printing capabilities allow us to offer OEM clients a wide variety of products and become a trusted collaborator. If you're wondering how to incorporate printed cups into your strategy or would like more info on reseller pricing, give us a call!</p>
-			</div>
-	</div>	
-</aside>
 <!--TESTIMONIALS-->
 
-<section class="tcs-customers">
+
 <div class="container">
+<section class="tcs-customers">
+<div class="splash">
+<h2 class="home-ctr">We're Making a Splash with Our Customers!</h2><br />
+</div>
 
 	<div class="row tcs-quotes">
+
+	<div class="col-xs-12 col-sm-6">
+<a class="twitter-timeline" href="https://twitter.com/TheCupStore" data-widget-id="638801762338648064">Tweets by @TheCupStore</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
 
 		<div class="col-xs-12 col-sm-6">
 			<div>
@@ -123,32 +143,40 @@
 			</div>
 
 
-			<!--<div>
+		<div>
 				<h3>Tweet-worthy!</h3>
 				<p>"Stoked on our new cups from @thecupstore! Can't wait to use these!!!"</p>
-				<p><em>- Clearly Kombucha, @clearlykombucha</em></p>
-			</div>-->
+				<p><em>- @clearlykombucha, <strong>Clearly Kombucha</strong></em></p>
+			</div>
 
 		</div>
 
-		<div class="col-xs-12 col-sm-6">
-			<img src="images/splash.jpg" alt="Coffee cup splashing" title="Coffee cup splashing">
-		</div>
+
 
 	</div>
-	</div>
-</section>
+	</section>
+</div>-->
 
+
+<aside class="tcs-callout">
+	<div class="container-fluid row">
+
+			<div class="container">
+				<h2>Are you a marketing professional?</h2>
+				<p>The Cup Store proudly partners with the advertising and marketing professionals who help their clients grow their business and achieve strong brand recognition. Our extensive experience and printing capabilities allow us to offer OEM clients a wide variety of products and become a trusted collaborator. If you're wondering how to incorporate printed cups into your strategy or would like more info on reseller pricing, give us a call!</p>
+			</div>
+	</div>
+</aside>
 
 <!--FOOTER SECTION-->
 
 <?php include 'includes/footer.php'; ?>
-    
 
 
-    <!-- Latest compiled and minified JavaScript 
+
+    <!-- Latest compiled and minified JavaScript
     ================================================== -->
-	
+
 	<script type="text/javascript" src="js/jquery-1.11.2.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->

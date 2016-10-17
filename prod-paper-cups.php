@@ -55,34 +55,45 @@
 
 <!--Thumbnails: Cups-->
     <section class="row">
-      <div class="col-xs-6 col-sm-2 tcs-product">
+      <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
       <img src="images/products/paper-std-4oz.jpg" alt="paper-cup-4oz" title="paper-cup-4oz">
       <h4>4 oz.</h4>
       </div>
 
       <div class="col-xs-6 col-sm-2 tcs-product">
-      <img src="images/products/paper-std-8oz.jpg" alt="paper-cup-4oz" title="paper-cup-8oz">
+      <img src="images/products/paper-std-5oz.jpg" alt="paper-cup-5oz" title="paper-cup-5oz">
+      <h4>5 oz.</h4>
+      </div>
+
+      <div class="col-xs-6 col-sm-2 tcs-product">
+      <img src="images/products/paper-std-8oz.jpg" alt="paper-cup-8oz" title="paper-cup-8oz">
       <h4>8 oz.</h4>
       </div>
 
       <div class="col-xs-6 col-sm-2 tcs-product">
-      <img src="images/products/paper-std-10oz.jpg" alt="paper-cup-4oz" title="paper-cup-10oz">
+      <img src="images/products/paper-std-10oz.jpg" alt="paper-cup-10oz" title="paper-cup-10oz">
       <h4>10 oz.</h4>
       </div>
 
-      <div class="col-xs-6 col-sm-2 tcs-product">
-      <img src="images/products/paper-std-12oz.jpg" alt="paper-cup-4oz" title="paper-cup-12oz">
+      <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
+      <img src="images/products/paper-std-12oz.jpg" alt="paper-cup-12oz" title="paper-cup-12oz">
       <h4>12 oz.</h4>
       </div>
 
       <div class="col-xs-6 col-sm-2 tcs-product">
-      <img src="images/products/paper-std-16oz.jpg" alt="paper-cup-4oz" title="paper-cup-16oz">
+      <img src="images/products/paper-std-16oz.jpg" alt="paper-cup-16oz" title="paper-cup-16oz">
       <h4>16 oz.</h4>
       </div>
 
       <div class="col-xs-6 col-sm-2 tcs-product">
-      <img src="images/products/paper-std-20oz.jpg" alt="paper-cup-4oz" title="paper-cup-20oz">
+      <img src="images/products/paper-std-20oz.jpg" alt="paper-cup-20oz" title="paper-cup-20oz">
       <h4>20 oz.</h4>
+      </div>
+
+
+      <div class="col-xs-6 col-sm-2 tcs-product">
+      <img src="images/products/paper-std-24oz.jpg" alt="paper-cup-24oz" title="paper-cup-240oz">
+      <h4>24 oz.</h4>
       </div>
 
       <!--<div class="col-xs-6 col-sm-2 tcs-product">
@@ -90,7 +101,6 @@
       <h4>24 oz.</h4>
       </div>-->
     </section><!--end cup thumbnails-->
-
     <h3 class="text-center">All sizes come in white only. Minimum order = 100 cups.</h3>
 
 
@@ -118,6 +128,17 @@
             <tr>
               <th>4P</th>
               <th>4oz Standard Paper Cup</th>
+              <th>$0.55</th>
+              <th>$0.45</th>
+              <th>$0.41</th>
+              <th>$0.27</th>
+              <th>$0.25</th>
+              <th>Call Us</th>
+            </tr>
+
+            <tr>
+              <th>5P</th>
+              <th>5oz Standard Paper Cup</th>
               <th>$0.55</th>
               <th>$0.45</th>
               <th>$0.41</th>
@@ -252,55 +273,62 @@
               <th>4P-Lid</th>
               <th>White vented lid for 4oz paper cups</th>
               <th>$4.00</th>
-              <th>$35.00</th>
+              <th>$37.00</th>
+              <th>1,000</th>
+            </tr>
+
+            <th>5P-Lid</th>
+              <th>White vented lid for 5oz paper cups</th>
+              <th>$4.00</th>
+              <th>$37.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>8P-Lid</th>
               <th>White tear back lid for 8oz paper cups</th>
-              <th>$4.50</th>
-              <th>$39.00</th>
+              <th>$3.00</th>
+              <th>$28.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>8P-Dome</th>
               <th>White dome lid for 8oz paper cups</th>
-              <th>$6.00</th>
-              <th>$50.00</th>
+              <th>$3.00</th>
+              <th>$30.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>8P-Dome Blk</th>
               <th>Black dome lid for 8oz paper cups</th>
-              <th>$6.50</th>
-              <th>$57.00</th>
+              <th>$3.00</th>
+              <th>$30.00</th>
               <th>1,000</th>
             </tr>
             
             <tr>
               <th>Tear-Lid</th>
               <th>White tear back lid for 10/12/16/20/24oz paper cups</th>
-              <th>$5.00</th>
-              <th>$45.00</th>
+              <th>$3.00</th>
+              <th>$29.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>Dome-Lid</th>
               <th>White dome lid for 10/12/16/20/24oz paper cups</th>
-              <th>$6.00</th>
-              <th>$52.00</th>
+              <th>$3.50</th>
+              <th>$32.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>Dome-Lid Blk</th>
               <th>Black dome lid for 10/12/16/20/24oz paper cups</th>
-              <th>$6.00</th>
-              <th>$52.00</th>
+              <th>$3.50</th>
+              <th>$32.00</th>
               <th>1,000</th>
             </tr>
           </tbody>

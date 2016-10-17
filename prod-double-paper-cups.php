@@ -55,7 +55,13 @@
 
 <!--Thumbnails: Cups-->
     <section class="row">
-      <div class="col-xs-6 col-sm-2 col-sm-offset-3 tcs-product">
+
+    <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
+      <img src="images/products/paper-double-8oz.jpg" alt="Double-walled-paper-cup-8oz" title="Double-walled-paper-cup-8oz">
+      <h4>8 oz.</h4>
+      </div>
+
+      <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/paper-double-12oz.jpg" alt="Double-walled-paper-cup-12oz" title="Double-walled-paper-cup-12oz">
       <h4>12 oz.</h4>
       </div>
@@ -96,35 +102,46 @@
 
           <tbody>
             <tr>
+              <th>8PD</th>
+              <th>8oz Double Walled Paper Cup</th>
+              <th>$0.84</th>
+              <th>$0.69</th>
+              <th>$0.64</th>
+              <th>$0.42</th>
+              <th>$0.40</th>
+              <th>Call Us</th>
+            </tr>
+
+            <tr>
               <th>12PD</th>
               <th>12oz Double Walled Paper Cup</th>
-              <th>$0.82</th>
-              <th>$0.67</th>
-              <th>$0.63</th>
-              <th>$0.41</th>
-              <th>$0.39</th>
+              <th>$0.89</th>
+              <th>$0.73</th>
+              <th>$0.68</th>
+              <th>$0.44</th>
+              <th>$0.42</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>16PD</th>
               <th>16oz Double Walled Paper Cup</th>
-              <th>$0.93</th>
-              <th>$0.76</th>
-              <th>$0.71</th>
-              <th>$0.46</th>
-              <th>$0.44</th>
+              <th>$1.03</th>
+              <th>$0.84</th>
+              <th>$0.80</th>
+              <th>$0.53</th>
+              <th>$0.50</th>
               <th>Call Us</th>
             </tr>
 
             <tr>
               <th>20PD</th>
               <th>20oz Double Walled Paper Cup</th>
-              <th>$0.98</th>
-              <th>$0.80</th>
-              <th>$0.75</th>
-              <th>$0.49</th>
-              <th>$0.45</th>
+              <th>$1.08</th>
+              <th>$0.88</th>
+              <th>$0.82</th>
+              <th>$0.63</th>
+              <th>$0.59</th>
               <th>Call Us</th>
             </tr>
           </tbody>
@@ -156,7 +173,7 @@
 
 <!--Price Table: Lids-->
 <section class="panel panel-default">
-  <div class="panel-heading"><strong>Prices in U.S. Dollars <strong>($USD)</strong></div>
+  <div class="panel-heading"><strong>Prices in U.S. Dollars ($USD)</strong></div>
     <div class="panel-body">
       <p class="hidden-sm hidden-md hidden-lg tabletip">Touch table and scroll to see pricing <i class="fa fa-arrow-right"></i></p>
       <div class="table-responsive">
@@ -173,6 +190,21 @@
           </thead>
 
           <tbody>
+
+            <tr>
+              <th>8P-Dome</th>
+              <th>White dome lid for 8oz double-walled paper cups</th>
+              <th>$6.00</th>
+              <th>$69.00</th>
+              <th>1,200</th>
+            </tr>
+             <tr>
+              <th>8P-Dome-Blk</th>
+              <th>Black dome lid for 8oz double-walled paper cups</th>
+              <th>$6.00</th>
+              <th>$69.00</th>
+              <th>1,200</th>
+            </tr>
             <tr>
               <th>PD-Dome</th>
               <th>White dome lid for 12/16/20oz double-walled paper cups</th>
@@ -192,9 +224,9 @@
 
         </table>
       </div><!--end table-responsive-->
+      
     </div><!--end panel body-->
   </section><!--end lid pricing tables-->
-
 
 
 <!--<MULTI-ITEM DISCOUNT-->
@@ -203,10 +235,10 @@
 
 </div><!--end container-->
 
+
 <!--JAVA PACKAGING-->
 
 <?php include 'includes/java.php'; ?>
-
 
 
 <!--FOOTER SECTION-->

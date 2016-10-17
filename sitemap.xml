@@ -1,57 +1,1655 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- Generated at http://www.timestampgenerator.com/tools/xml-sitemap-from-list/ -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://www.thecupstore.com/</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/index.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/products.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-paper-cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-eco-paper-cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-double-paper-cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-plastic-cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-eco-plastic-cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-frosted-plastic-cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-glassware.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-coffee-sleeves.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/prod-gelato-cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/order-info.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/about-us.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/contact-us.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/form/quote-request.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/sitemap.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/404-error.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/10_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/10_oz_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/10_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/10_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/12_ounce_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/12_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/12_oz_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/12_oz_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/12_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/12_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/14_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/16_ounce_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/16_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/16_oz_eco_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/16_oz_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/16_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/16_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/18_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/20_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/20_oz_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/20_oz_eco_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/20_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/20_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/24_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/24_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/24_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/3_5_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/3_5_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/3_ounce_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/3_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/3_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/4_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/4_oz_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/4_oz_hot_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/4_oz_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/4_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/4_oz_paper_espresso_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/4_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/7_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/7_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/7_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/8_oz_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/8_oz_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/8_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/9_oz_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/9_oz_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/beer_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/beer_steins.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_coffee_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_coffee_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_cold_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_cups_ontario.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_hot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_plastic_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/biodegradable_paper_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/bio_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/clear_plastic_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/clear_plastic_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/clear_plastic_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/clear_plastic_shot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_clutch.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_clutches.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cups_advertising.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cups_ontario.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cups_with_lids_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cup_jackets.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cup_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_cup_sleeves_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_jackets.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/coffee_wraps.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/compostable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/compostable_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/compostable_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/compostable_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/compostable_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/corn_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/corn_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cups_and_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cups_ontario.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cup_buddy.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cup_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/cup_sleeves_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_beer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_beer_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_beer_mugs.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_coffee_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_disposable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_drinking_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_drinkware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_glassware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_pint_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_shot_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_styrofoam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/customized_wine_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_barware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_bar_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_beer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_beer_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_beer_mugs.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_beer_tasting_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_beverage_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_biodegradable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_champagne_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_coffee_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_coffee_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_coffee_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_cold_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_compostable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_cups_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_disposable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_drinking_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_drinkware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_foam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_glassware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_glassware_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_glass_mugs.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_greenware_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_hot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_imprinted_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_martini_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_paper_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_paper_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_pint_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_plastic_beer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_beer_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_cold_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_disposable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_eco_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_foam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_glassware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_hot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_pint_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_shot_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_styrofoam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_printed_wine_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_rocks_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_scotch_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_shot_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_shot_glasses_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_styrofoam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_whiskey_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/custom_wine_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/dart_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/dart_foam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/decorated_shot_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/decorated_wine_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_coffee_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_paper_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_plastic_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_plastic_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/disposable_plastic_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/drinkware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/ecotainer.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/ecotainer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/ecotainer_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/ecotainer_hot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/ecotainer_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_friendly_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_friendly_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_friendly_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_friendly_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_hot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/eco_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/espresso_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/espresso_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/espresso_cups_ontario.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/espresso_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/foam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/glassware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/glass_mugs.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/greenware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/greenware_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/greenware_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/greenware_ontario.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/greenware_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/greenware_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/green_disposable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/imprinted_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/imprinted_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/imprinted_disposable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/imprinted_glassware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/imprinted_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/imprinted_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/imprinted_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/insulated_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/internatinal_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/international_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/java_jackets.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/java_jackets_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/large_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/logo_glassware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/logo_pint_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/logo_printed_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/mixing_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_coffee_cups_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_coffee_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_cups_for_coffee.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_cups_nyc.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_cups_ontario.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_espresso_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/paper_party_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_beer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_clear_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_coffee_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_coffee_cups_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_cups_for_weddings.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_disposable_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_disposable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_drinking_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_foam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_paper_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_plastic_beer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_plastic_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_plastic_cups_for_weddings.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_plastic_drinking_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_plastic_party_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/personalized_styrofoam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_cups_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_cups_ontario.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_cups_toronto.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_cups_with_lids.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_cups_with_lids_canada.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_party_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_shooter_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/plastic_shot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/pla_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/pla_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/pla_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/polystyrene_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_beer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_beer_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_coffee_sleeves.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_cold_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_disposable_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_foam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_glassware.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_hot_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_paper_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_paper_ice_cream_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_plastic_beer_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/printed_styrofoam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/promotional_coffee_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/promotional_paper_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/promotional_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/robots.txt</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/shot_glasses.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/small_plastic_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/solo_cups.php</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/styrofoam_cups.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://www.thecupstore.com/tumbler_glass.html</loc>
+	<priority>.5</priority>
+	<changefreq>weekly</changefreq>
+</url>
 
-<url>
-  <loc>http://www.thecupstore.com/index.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/products.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-paper-cups.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-eco-paper-cups.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-double-paper-cups.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-plastic-cups.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-eco-plastic-cups.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-frosted-plastic-cups.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-glassware.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-coffee-sleeves.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/prod-gelato-cups.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/order-info.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/about-us.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/contact-us.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/form/quote-request.php</loc>
-</url>
-<url>
-  <loc>http://www.thecupstore.com/404-error.php</loc>
-</url>
 </urlset>

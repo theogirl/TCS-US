@@ -39,6 +39,7 @@
       		<ul>
       			<li><a href="index.php">Home</a></li>
       			<li><a href="order-info.php">Order Information</a></li>
+            <li><a href="policies.php">Store Policies</a></li>
       			<li><a href="about-us.php">About Us</a></li>
       			<li><a href="form/quote-request.php">Quote Request</a></li>
       			<li><a href="sitemap.php">Site Map</a></li>

@@ -56,7 +56,7 @@
 
 <!--Thumbnails: Cups-->
     <section class="row">
-      <div class="col-xs-6 col-sm-2 col-sm-offset-2 tcs-product">
+      <div class="col-xs-6 col-sm-2 col-sm-offset-1 tcs-product">
       <img src="images/products/plastic-std-35oz.jpg" alt="plastic-cup-3.5oz" title="plastic-cup-4.5oz">
       <h4>3.5 oz.</h4>
       </div>
@@ -69,6 +69,11 @@
       <div class="col-xs-6 col-sm-2 tcs-product">
       <img src="images/products/plastic-std-7oz.jpg" alt="plastic-cup-7oz" title="plastic-cup-7oz">
       <h4>7 oz.</h4>
+      </div>
+
+      <div class="col-xs-6 col-sm-2 tcs-product">
+      <img src="images/products/plastic-std-9oz.jpg" alt="plastic-cup-9oz" title="plastic-cup-9oz">
+      <h4>9 oz.</h4>
       </div>
 
       <div class="col-xs-6 col-sm-2 tcs-product">
@@ -127,7 +132,7 @@
               <th>3.5oz Standard Plastic Cup</th>
               <th>$0.61</th>
               <th>$0.50</th>
-              <th>$0.41</th>
+              <th>$0.43</th>
               <th>$0.28</th>
               <th>$0.26</th>
               <th>Call Us</th>
@@ -149,6 +154,17 @@
               <th>7oz Standard Plastic Cup</th>
               <th>$0.65</th>
               <th>$0.54</th>
+              <th>$0.48</th>
+              <th>$0.31</th>
+              <th>$0.29</th>
+              <th>Call Us</th>
+            </tr>
+
+            <tr>
+              <th>9PL</th>
+              <th>9oz Standard Plastic Cup</th>
+              <th>$0.68</th>
+              <th>$0.56</th>
               <th>$0.48</th>
               <th>$0.31</th>
               <th>$0.29</th>
@@ -279,41 +295,41 @@
 
             <tr>
               <th>12/20PL-Lid</th>
-              <th>Straw slot lid for 12 and 20oz standard plastic cups</th>
-              <th>$5.00</th>
-              <th>$44.00</th>
+              <th>Straw slot lid for 9, 12 and 20oz standard plastic cups</th>
+              <th>$4.50</th>
+              <th>$41.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>16/24PL-Lid</th>
               <th>Straw slot lid for 16 and 24oz standard plastic cups</th>
-              <th>$5.00</th>
-              <th>$44.00</th>
+              <th>$4.50</th>
+              <th>$43.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>10PL-Dome</th>
               <th>Dome lid for 10oz standard plastic cups</th>
-              <th>$6.00</th>
-              <th>$53.00</th>
+              <th>$5.50</th>
+              <th>$52.00</th>
               <th>1,000</th>
             </tr>
             
             <tr>
               <th>12/20PL-Dome</th>
-              <th>Dome lid for 12 and 20oz standard plastic cups</th>
-              <th>$8.50</th>
-              <th>$73.00</th>
+              <th>Dome lid for 9, 12 and 20oz standard plastic cups</th>
+              <th>$7.00</th>
+              <th>$69.00</th>
               <th>1,000</th>
             </tr>
 
             <tr>
               <th>16/24PL-Dome</th>
               <th>Dome lid for 16 and 24oz standard plastic cups</th>
-              <th>$8.50</th>
-              <th>$73.00</th>
+              <th>$7.00</th>
+              <th>$71.00</th>
               <th>1,000</th>
             </tr>
           </tbody>

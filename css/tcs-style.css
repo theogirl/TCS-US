@@ -200,14 +200,14 @@ h1, h2, h3 {
   background-image: url('../images/us-flag-icon.jpg');
 }
 .flag-icon-us-tsp {
- background-image: url('../images/us-flag-icon-bw.jpg');*/
+ background-image: url('../images/us-flag-icon-bw.jpg');
 }
 
 .flag-icon-us:hover {
   background-image: url('../images/us-flag-icon-bw.jpg');
 }
 .flag-icon-us-tsp:hover {
- background-image: url('../images/us-flag-icon.jpg');*/
+ background-image: url('../images/us-flag-icon.jpg');
 }
 
 
@@ -237,7 +237,7 @@ h1, h2, h3 {
 .hero-btn {
 	margin-bottom: 15px;
 	border: white solid 2px;
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(39,26,18,0.2);
 	width: 100%;
 	font-size: 1.4em;
 	padding: 15px 10px;
@@ -245,7 +245,7 @@ h1, h2, h3 {
 
 .hero-btn:hover {
 	border: white solid 2px;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(39,26,18,0.5);
 }
 
 /***--------------------------[ PAGE TITLE ]------------------------------***/
@@ -332,7 +332,108 @@ h1, h2, h3 {
 	text-align: left;
 }
 
+
+/*---PROMO ON HOME PAGE---*/
+
+.thumbnail-special  {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #F5F5F5;
+  border: 1px solid #3b3b3b;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
+.thumbnail-special > img,
+.thumbnail-special a > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.thumbnail-special > img,
+.thumbnail-special a > img {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+a.thumbnail-special:hover,
+a.thumbnail-special:focus,
+a.thumbnail-special.active {
+  border-color: #337ab7;
+}
+.thumbnail-special .caption {
+  padding: 9px;
+  color: #333;
+}
+
+ .promo_banner {
+    position: relative;
+    top: 0;
+    left: 0;
+    background-color: #35c0bb;
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    margin:2px 5px 1px 5px;
+  }
+
+.insta {
+	margin: 30px 0;
+	font-size: 1.2em;
+}
+
 /***----------------------[ HOME PAGE: TESTIMONIALS ]------------------------***/
+
+.splash {
+	background: no-repeat center;
+	background-image: url('../images/cup-splash.jpg');
+	background-size: 100%;
+	height: 280px;
+	margin-bottom: 30px;
+}
+
+.splash h2 {
+	padding-top: 120px;
+	font-size: 2em;
+}
+
+@media screen and (min-width: 500px) {
+.splash {
+	background-size: 70%;
+	background-image: url('../images/cup-splash.jpg');
+	height: 300px;
+	border-bottom: 1px solid grey;
+	margin-bottom: 50px;
+}
+
+.splash h2 {
+	padding-top: 200px;
+	font-size: 2.2em;
+}
+}
+
+@media screen and (min-width: 768px) {
+.splash {
+	background: no-repeat center -70px;
+	background-image: url('../images/cup-splash.jpg');
+	background-size: 60%;
+	height: 420px;
+	border-bottom: 1px solid grey;
+	margin-bottom: 50px;
+}
+
+.splash h2 {
+	padding-top: 270px;
+	font-size: 2.57em;
+}
+}
+
+
 
 .tcs-customers {
 	padding: 20px;
@@ -361,7 +462,7 @@ h1, h2, h3 {
 @media screen and (min-width: 768px) {
 .tcs-quotes {
 	font-size: 1.2em;
-	padding-top: 40px;
+	padding-top: 0;
 	padding-left: 30px;
  }
 }
@@ -749,7 +850,7 @@ h1, h2, h3 {
 	padding-top: 30px;
 	padding-left: 30px;
 	text-align: left;
-	font-size: 0.9em;;
+	font-size: 0.9em;
 }
 
 .tcs-address-box a {
@@ -863,6 +964,12 @@ h1, h2, h3 {
 .error h1 {
 	padding-top: 50px;
 }
+}
+
+
+.home-ctr, .home-ctr h2 {
+	text-align: center;
+	padding: 5px 15px;
 }
 
 

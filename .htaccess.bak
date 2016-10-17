@@ -1,0 +1,49 @@
+# -FrontPage-
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthType Basic
+AuthName thecupstore.com
+AuthUserFile /usr/www/users/sergiol5/cupstore/_vti_pvt/service.pwd
+AuthGroupFile /usr/www/users/sergiol5/cupstore/_vti_pvt/service.grp
+ErrorDocument 404 http://www.thecupstore.com/404-error.php
+ErrorDocument 500 http://www.thecupstore.com/
+ErrorDocument 403 http://www.thecupstore.com/
+ErrorDocument 401 http://www.thecupstore.com/
+
+Options +FollowSymLinks
+RewriteEngine on
+
+Redirect 301 /index.html http://www.thecupstore.com/index.php
+Redirect 301 /customer_service.html http://www.thecupstore.com/form/quote-request.php
+Redirect 301 /about_us.html http://www.thecupstore.com/about-us.php
+Redirect 301 /order_information.html http://www.thecupstore.com/order-information.php
+Redirect 301 /contact_us.html http://www.thecupstore.com/contact-us.php
+Redirect 301 /custom_printed_biodegradable_paper_cups.html http://www.thecupstore.com/prod-eco-paper-cups.php
+Redirect 301 /pricing_custom_printed_biodegradable_paper_cups.html http://www.thecupstore.com/prod-eco-paper-cups.php
+Redirect 301 /custom_printed_biodegradable_plastic_cups.html http://www.thecupstore.com/prod-eco-plastic-cups.php
+Redirect 301 /pricing_custom_printed_biodegradable_plastic_cups.html http://www.thecupstore.com/prod-eco-plastic-cups.php
+Redirect 301 /custom_printed_hot_paper_cups.html http://www.thecupstore.com/prod-paper-cups.php 
+Redirect 301 /pricing_custom_printed_hot_paper_cups.html http://www.thecupstore.com/prod-paper-cups.php
+Redirect 301 /custom_printed_double_walled_paper_cups.html http://www.thecupstore.com/prod-double-paper-cups.php
+Redirect 301 /pricing_custom_printed_double_walled_paper_cups.html http://www.thecupstore.com/prod-double-paper-cups.php
+Redirect 301 /custom_printed_glassware.html http://www.thecupstore.com/prod-glassware.php
+Redirect 301 /arc_glassware_lineup.jpg http://www.thecupstore.com/prod-glassware.php
+Redirect 301 /custom_printed_gelato_cups.html http://www.thecupstore.com/prod-gelato-cups.php
+Redirect 301 /pricing_custom_printed_gelato_cups.html http://www.thecupstore.com/prod-gelato-cups.php
+Redirect 301 /custom_printed_cold_plastic_cups.html http://www.thecupstore.com/prod-plastic-cups.php
+Redirect 301 /pricing_custom_printed_cold_plastic_cups.html http://www.thecupstore.com/prod-plastic-cups.php
+Redirect 301 /custom_printed_foam_cups.html http://www.thecupstore.com/products.php
+Redirect 301 /pricing_custom_printed_foam_cups.html http://www.thecupstore.com/products.php
+Redirect 301 /custom_printed_paper_food_containers.html http://www.thecupstore.com/products.php
+Redirect 301 /pricing_custom_printed_paper_food_containers.html http://www.thecupstore.com/products.php
+Redirect 301 /site_map.html http://www.thecupstore.com/sitemap.php
+DirectoryIndex index.php

@@ -83,10 +83,11 @@
             <tr>
               <th>Item No.</th>
               <th>Description</th>
-              <th>600+</th>
-              <th>3,600+</th>
-              <th>6,000+</th>
-              <th>10,800+</th>
+              <th>650</th>
+              <th>1,300</th>
+              <th>3,900</th>
+              <th>6,500</th>
+              <th>10,400</th>
             </tr>
           </thead>
 
